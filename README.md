@@ -1,4 +1,4 @@
-**Shital Restaurant Dashboard**
+**SHITAL RESTAURANT DASHBOARD**
 **Project Overview**
 
 The Shital Restaurant Dashboard is an end-to-end data analytics and visualization project built to analyze restaurant sales, user behavior, city-wise performance, and restaurant-level insights. The dashboard is designed to help business stakeholders understand trends, identify high-performing cities and cuisines, and make data-driven decisions for growth, marketing, and operations.
